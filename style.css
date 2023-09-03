@@ -1,0 +1,77 @@
+.Main {
+    background-color: #ff99f5;
+}
+
+.mainBox {
+    text-align: center;
+    margin-top: 24px;
+}
+
+table {
+    margin: auto;
+}
+
+.cancle{
+    background-color: rgb(207, 82, 82);
+}
+
+.cancle:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+.equal{
+    background-color: rgb(83, 169, 17);
+}
+
+.equal:hover{
+    background-color: #56fc93;
+}
+
+.opration{
+    background-color: rgb(235, 236, 224);
+}
+
+.opration:hover{
+    background-color: rgb(221, 228, 76);
+}
+
+.bracket{
+    background-color: rgb(232, 15, 214);
+}
+
+input {
+    border-radius: 15px;
+    border: 5px solid #244624;
+    font-size: 40px;
+    height: 80px;
+    width: 500px;
+    background-color: #dde5e5;
+}
+
+button {
+    border-radius: 20px;
+    font-size: 45px;
+    background: #cac994;
+    width: 120px;
+    height: 90px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: aqua;
+    font-size: 60px;
+}
+
+.calt {
+    border: 5px solid #13695d;
+    background-color: #99a7ff;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
